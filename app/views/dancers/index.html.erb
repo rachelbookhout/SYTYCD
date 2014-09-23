@@ -1,0 +1,5 @@
+<ul>
+<% @dancers.each do |dancer| %>
+<li><a href = "dancers/<%= dancer.id%>"><%= dancer.full_name %></a><li>
+<%end%>
+</ul>
