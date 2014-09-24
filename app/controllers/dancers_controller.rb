@@ -1,17 +1,15 @@
 class DancersController < ApplicationController
 
   def index
-  @dancers = Dancer.all
+  @dancers = Dancer.all.order(full_name: :asc)
   end
 
   def get_videos(dancer,partner,song)
   client = YouTubeIt::Client.new
   reply = client.videos_by(:query => "#{dancer} #{partner} #{song}")
   @url = reply.videos.first.player_url
-  #binding.pry
   @video_id = @url.match(/watch\?v=(.*?)(?:&feature|\Z)/)[1]
   @video = client.video_by("#{@video_id}")
-  #binding.pry
   end
 
   def show
@@ -19,7 +17,6 @@ class DancersController < ApplicationController
   @dances = Performance.where({dancer_id: id})
   @dance_videos = @dances.each do |dance|
   get_videos(dance.name,dance.partner,dance.song)
-  #binding.pry
   dance.url = @url
   dance.video_id = @url.match(/watch\?v=(.*?)(?:&feature|\Z)/)[1]
   end
