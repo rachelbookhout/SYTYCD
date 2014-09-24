@@ -1,20 +1,31 @@
-
-
-
-    <% @dances.each do |dance| %>
-
-        <a href=""><%= dance.partner %></a>
-        <%= dance.song %>
-
-  <div class="container">
+<div class="container">
   <div id="player-wrapper">
   </div>
-              <div class="col-md-4">
-              <div class="yt_video thumbnail">
-             <%= image_tag "https://img.youtube.com/vi/#{@video_id}/mqdefault.jpg", alt: dance.song,
-                              class: 'yt_preview img-rounded', :"data-uid" => @video_id %>
+
+<table>
+<thead>
+  <tr>
+      <th>Partner</th>
+      <th>Song</th>
+      <!-- <th> Url </th> -->
+      <th>Video</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+ <% @dances.each do |dance| %>
+  <td><a href=""><%= dance.partner %></a></td>
+  <td><%= dance.song %></td>
+<!--   <td><%= dance.url %></td> -->
+    <%end%>
+<% @dance_videos.each do |video|%>
+<div class="col-md-4">
+  <div class="yt_video thumbnail">
+<td>  <%= image_tag "https://img.youtube.com/vi/#{video.video_id}/mqdefault.jpg", alt: video.song, class: 'yt_preview img-rounded', :"data-uid" => video.video_id %></td>
                 </div>
               </div>
             </div>
+            </tr>
     <% end %>
-
+</tbody>
+</table>
