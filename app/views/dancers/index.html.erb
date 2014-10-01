@@ -1,4 +1,10 @@
 <h1> Choose Your Dancer:</h1>
+
+<%= form_tag dancers_path, :method => "get" do%>
+<%= text_field_tag :search, params[:search], placeholder: "Search Dancers"%>
+<%= submit_tag "Search", :name => nil %>
+<%end%>
+
 <ul>
 <% @dancers.each do |dancer| %>
 <li><a href = "dancers/<%= dancer.id%>"><%= dancer.full_name %></a><li>

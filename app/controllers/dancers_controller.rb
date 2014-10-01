@@ -1,7 +1,15 @@
 class DancersController < ApplicationController
 
+  def self.search(query)
+    where("email like ?", "%#{query}%")
+  end
+
   def index
-  @dancers = Dancer.all.order(full_name: :asc)
+  if params[:search]
+    @dancers = Dancer.search(params[:search])
+  else
+    @dancers = Dancer.all.order(full_name: :asc)
+  end
   end
 
   def get_videos(dancer,partner,song)
