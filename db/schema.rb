@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20140924005055) do
+ActiveRecord::Schema.define(version: 20141001005030) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -25,16 +25,17 @@ ActiveRecord::Schema.define(version: 20140924005055) do
   end
 
   create_table "performances", force: true do |t|
-    t.string   "name",       null: false
-    t.string   "partner",    null: false
-    t.string   "song",       null: false
-    t.integer  "season",     null: false
-    t.string   "style",      null: false
-    t.integer  "dancer_id",  null: false
+    t.string   "dancer_name", null: false
+    t.string   "partner",     null: false
+    t.string   "song",        null: false
+    t.integer  "season",      null: false
+    t.string   "style",       null: false
+    t.integer  "dancer_id",   null: false
     t.string   "url"
     t.datetime "created_at"
     t.datetime "updated_at"
     t.string   "video_id"
+    t.integer  "partner_id"
   end
 
 end

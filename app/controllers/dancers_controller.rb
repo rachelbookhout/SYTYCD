@@ -14,7 +14,7 @@ class DancersController < ApplicationController
 
   def show
   id = params[:id].to_i
-  @dances = Performance.where({dancer_id: id})
+  @dances = Performance.where({dancer_id: id || partner_id :id})
   @dance_videos = @dances.each do |dance|
   get_videos(dance.name,dance.partner,dance.song)
   dance.url = @url
