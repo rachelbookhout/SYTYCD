@@ -39,4 +39,4 @@ gem 'bootstrap-sass', '~> 3.1.1.0'
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
-
+gem 'kaminari'

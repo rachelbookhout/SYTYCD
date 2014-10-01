@@ -1,14 +1,11 @@
 class DancersController < ApplicationController
 
-  def self.search(query)
-    where("email like ?", "%#{query}%")
-  end
 
   def index
   if params[:search]
     @dancers = Dancer.search(params[:search])
   else
-    @dancers = Dancer.all.order(full_name: :asc)
+    @dancers = Dancer.order(full_name: :asc).page(params[:page]).per(25)
   end
   end
 
