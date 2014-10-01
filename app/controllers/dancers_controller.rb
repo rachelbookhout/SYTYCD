@@ -1,6 +1,5 @@
 class DancersController < ApplicationController
 
-
   def index
   if params[:search]
     @dancers = Dancer.search(params[:search])
@@ -12,9 +11,11 @@ class DancersController < ApplicationController
   def get_videos(dancer,partner,song)
   client = YouTubeIt::Client.new
   reply = client.videos_by(:query => "#{dancer} #{partner} #{song}")
-  @url = reply.videos.first.player_url
-  @video_id = @url.match(/watch\?v=(.*?)(?:&feature|\Z)/)[1]
-  @video = client.video_by("#{@video_id}")
+  if reply.videos != []
+    @url = reply.videos.first.player_url
+    @video_id = @url.match(/watch\?v=(.*?)(?:&feature|\Z)/)[1]
+    @video = client.video_by("#{@video_id}")
+    end
   end
 
   def show
