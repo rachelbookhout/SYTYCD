@@ -1,0 +1,141 @@
+id,dancer_name,partner,song,season,style,dancer_id,url,created_at,updated_at,video_id,partner_id
+78,Billy Bell,Lauren Gottileb,Footloose,7,Broadway,29,,2014-10-01 00:55:16.020066,2014-10-01 00:55:16.020066,,152
+79,Comfort Fedoke,Jose Ruiz,Beautiful Monster,7,Hip-Hop,44,,2014-10-01 00:55:27.808234,2014-10-01 00:55:27.808234,,134
+80,Kathryn McCormick,AdéChiké Torbert , Addicted to Love,7,Jazz,96,,2014-10-01 00:55:27.830715,2014-10-01 00:55:27.830715,,3
+81,Pasha Kovalev,Melinda Sullivan ,L-O-V-E,7,Jive,138,,2014-10-01 00:55:27.851212,2014-10-01 00:55:27.851212,,165
+82,Allison Holker,Alex Wong,Hallelujah,7,Contemporary,10,,2014-10-01 00:55:27.867039,2014-10-01 00:55:27.867039,,5
+83,Alexie Agdeppa,Twitch Boss,Butterfly,7,Hip-Hop,8,,2014-10-01 00:55:27.879891,2014-10-01 00:55:27.879891,,206
+84,Lauren Froderman,Ade Obayomi,Oh Yeah,7,Pop-Jazz,151,,2014-10-01 00:55:27.898564,2014-10-01 00:55:27.898564,,2
+85,Kent Boyd,Anya Garnis,Lady Marmalade,7,Cha-cha=cha,146,,2014-10-01 00:55:27.912515,2014-10-01 00:55:27.912515,,13
+86,Ashley Galvan,Neil Haskell,For All We Know,7,Contemporary,20,,2014-10-01 00:55:27.924864,2014-10-01 00:55:27.924864,,178
+87,Courtney Galiano,Robert Roldan,Norweg,7,African Jazz,45,,2014-10-01 00:55:27.943212,2014-10-01 00:55:27.943212,,194
+88,Pasha Kovalev,Christina Santana,Ira Deorum/Sanctus,7,Paso Doble,138,,2014-10-01 00:55:27.957129,2014-10-01 00:55:27.957129,,
+89,Allison Holker,AdéChiké Torbert,Listen to Your Heart,7,Contemporary,10,,2014-10-01 00:55:27.967703,2014-10-01 00:55:27.967703,,3
+90,Lauren Gottlieb,Alex Wong,Summertime,7,Broadway,152,,2014-10-01 00:55:27.984919,2014-10-01 00:55:27.984919,,194
+91,Kathryn McCormick,Jose Ruiz,Marjaani Marjaani Kasama,7,Bollywood,96,,2014-10-01 00:55:28.009886,2014-10-01 00:55:28.009886,,134
+92,Kent Boyd,Courtney Gailiano,Amy Amy Amy,7,Jazz,146,,2014-10-01 00:55:28.090114,2014-10-01 00:55:28.090114,,45
+93,Lauren Gottlieb,AdéChiké Torbert ,Hot-N-Fun,7,Hip-Hop,152,,2014-10-01 00:55:28.101718,2014-10-01 00:55:28.101718,,3
+94,Lauren Gottlieb,AdéChiké Torbert ,Hot-N-Fun,7,Hip-Hop,152,,2014-10-01 00:55:28.118658,2014-10-01 00:55:28.118658,,3
+95,Ashley Galvan,Ade Obayomi,Cosmic Love,7,Contemporary,20,,2014-10-01 00:55:28.138046,2014-10-01 00:55:28.138046,,2
+96,Courtney Galiano,Robert Roldan,XXXO,7,Jazz,45,,2014-10-01 00:55:28.151793,2014-10-01 00:55:28.151793,,194
+97,Pasha Kovalev,Melinda Sullivan,"Magdelena, Mi Amor",7,Salsa,138,,2014-10-01 00:55:28.161751,2014-10-01 00:55:28.161751,,165
+98,Lauren Froderman,Neil Haskell,Let me Entertain You,7,Broadway,151,,2014-10-01 00:55:28.180963,2014-10-01 00:55:28.180963,,178
+99,Billy Bell,Kathryn McCormick,Jar of Hearts,7,Contemporary,29,,2014-10-01 00:55:28.195128,2014-10-01 00:55:28.195128,,143
+100,Kent Boyd,Allison Holker,Heartburn,7,Jazz,146,,2014-10-01 00:55:28.213933,2014-10-01 00:55:28.213933,,10
+101,Alex Wong,Twitch Boss,Hip-Hop,7,Hip-Hop,5,,2014-10-01 00:55:28.230844,2014-10-01 00:55:28.230844,,206
+102,Lauren Froderman,Pasha Kovalev,Telephone,7,Cha-cha-cha,151,,2014-10-01 00:55:33.225665,2014-10-01 00:55:33.225665,,138
+103,Lauren Gottileb,Jose Ruiz,Never Tear us Apart,7,Contemporary,152,,2014-10-01 00:55:55.111144,2014-10-01 00:55:55.111144,,134
+104,Kent Boyd,Comfort Fedoke,You're not my Girl,7,Hip-hop,146,,2014-10-01 00:55:55.134163,2014-10-01 00:55:55.134163,,44
+105,Courtney Galiano,AdéChiké Torbert  ,Is You or is You Ain't my Baby,7,Jazz,45,,2014-10-01 00:55:55.153078,2014-10-01 00:55:55.153078,,3
+106,Billy Bell,Katee Shean,Broadway,7,Broadway,29,,2014-10-01 00:55:55.166339,2014-10-01 00:55:55.166339,,142
+107,Ashley Galvan,Dominic Sandoval,How Low,7,Hip-hop,20,,2014-10-01 00:55:55.176932,2014-10-01 00:55:55.176932,,54
+108,Kathyrn McCormick,Robert Roldan,Sinking Feeling,7,Jazz,143,,2014-10-01 00:55:55.198051,2014-10-01 00:55:55.198051,,194
+109,AdéChiké Torbert  ,Maria,Mourya Re,7,Bollywood,3,,2014-10-01 00:55:55.209959,2014-10-01 00:55:55.209959,,
+110,Kent Boyd,Lauren Froderman,Collide,7,Contemporary,146,,2014-10-01 00:55:55.220325,2014-10-01 00:55:55.220325,,151
+111,Ashely Galvan,Robert Roldan,Man with the Hex,7,Quickstep,20,,2014-10-01 00:55:55.242874,2014-10-01 00:55:55.242874,,194
+112,Billy Bell,Jose Ruiz,The Hunt,7,African Jazz,29,,2014-10-01 00:55:55.254748,2014-10-01 00:55:55.254748,,134
+113,Lauren Foderman,Mark Kanemura,Jungle,7,Tahitan,151,,2014-10-01 00:55:55.26488,2014-10-01 00:55:55.26488,,156
+114,Anya Garnis,AdéChiké Torbert ,Oyelo Que Te Convience,7,Salsa,13,,2014-10-01 00:55:55.286091,2014-10-01 00:55:55.286091,,3
+115,Allison Holker,Robert Roldan,Fix you,7,Contemporary,10,,2014-10-01 00:55:55.307765,2014-10-01 00:55:55.307765,,194
+116,Billy Bell,Anya Garnis,Paradise by the Dashboard Light,7,Jive,20,,2014-10-01 00:55:55.328514,2014-10-01 00:55:55.328514,,13
+117,Billy Bell,Lauren Froderman,Boogie Shoes,7,Jazz,20,,2014-10-01 00:55:55.348167,2014-10-01 00:55:55.348167,,151
+118,Jose Ruiz,Dominic Sandoval,Battle for the Beat,7,B-Boying,134,,2014-10-01 00:55:55.412674,2014-10-01 00:55:55.412674,,134
+119,Robert an,Kathyrn McCormick,Instant Replay,7,Disco,194,,2014-10-01 00:55:55.430268,2014-10-01 00:55:55.430268,,143
+120,Twitch Boss,Lauren Froderman,My Chick Bad,7,Hip-hop,206,,2014-10-01 00:55:55.440628,2014-10-01 00:55:55.440628,,151
+121,Allison Holker,Jose Ruiz,Eternal Sunshine of the Mind theme,7,Contemporary,10,,2014-10-01 00:55:55.45735,2014-10-01 00:55:55.45735,,134
+122,Lauren Gottileb,Robert Roldan,Wasted Time,7,Jazz,152,,2014-10-01 00:55:55.470552,2014-10-01 00:55:55.470552,,194
+123,Kent Boyd,Kathryn McCormick,Tightrope,7,Jazz,146,,2014-10-01 00:55:55.480662,2014-10-01 00:55:55.480662,,143
+124,Comfort Fedoke,AdéChiké Torbert  ,Fallin,7,Lyrical Hip-hop,44,,2014-10-01 00:55:55.498822,2014-10-01 00:55:55.498822,,3
+125,Jose Ruiz,AdéChiké Torbert ,The Arrival,7,Paso Doble,134,,2014-10-01 00:55:55.517888,2014-10-01 00:55:55.517888,,3
+126,Kent Boyd,Twitch Boss,Pro Nails,7,Stepping,146,,2014-10-01 00:55:55.528887,2014-10-01 00:55:55.528887,,206
+127,Kent Boyd,Anya Garnis,My First Kiss,7,Cha-cha-cha,146,,2014-10-01 00:55:55.547697,2014-10-01 00:55:55.547697,,13
+128,Robert Roldan,Kathryn McCormick,Heaven is a Place on Earth,7,Contemporary,194,,2014-10-01 00:55:55.559251,2014-10-01 00:55:55.559251,,143
+129,Courtney Galiliano,AdéChiké Torbert  ,Manteca,7,Jazz,45,,2014-10-01 00:55:55.569161,2014-10-01 00:55:55.569161,,3
+130,Comfort Fedoke,Jose Ruiz,Try a Little Tenderness,7,Hip-hop,44,,2014-10-01 00:55:55.586468,2014-10-01 00:55:55.586468,,134
+131,Billy Bell,Ade Obayomi,Mad World,7,Contemporary,20,,2014-10-01 00:55:55.60622,2014-10-01 00:55:55.60622,,2
+132,Kent Boyd,Jose Ruiz,From this Moment On,7,Broadway,146,,2014-10-01 00:55:55.616802,2014-10-01 00:55:55.616802,,134
+133,Lauren Froderman,AdéChiké Torbert ,Fever,7,Foxtrot,151,,2014-10-01 00:55:55.632494,2014-10-01 00:55:55.632494,,3
+134,Billy Bell,Robert Roldan,Ganesh,7,Bollywood,20,,2014-10-01 00:55:55.644975,2014-10-01 00:55:55.644975,,194
+135,Lauren Froderman,Pasha Kovalev,Oblivion,7,Argentine Tango,151,,2014-10-01 00:55:55.656825,2014-10-01 00:55:55.656825,,138
+136,Kent Boyd,Courtney Galiano,When Love Takes Over,7,Disco,146,,2014-10-01 00:55:55.686878,2014-10-01 00:55:55.686878,,35
+137,Lauren Froderman,Ade Obayomi,Hide U,7,Jazz,151,,2014-10-01 00:55:55.69701,2014-10-01 00:55:55.69701,,2
+138,Kathryn McCormick,AdéChiké Torbert ,Fearless Love,7,Contemporary,143,,2014-10-01 00:55:55.715586,2014-10-01 00:55:55.715586,,3
+139,Robert Roldan,Dominic Sandoval,Scars,7,Hip-hop,194,,2014-10-01 00:55:55.726949,2014-10-01 00:55:55.726949,,54
+140,Kent Boyd,Neil Haskell,How It Ends,7,Contemporary,146,,2014-10-01 00:55:55.73989,2014-10-01 00:55:55.73989,,178
+141,Twitch Boss,Lauren Froderman,Power,7,Hip-hop,206,,2014-10-01 00:55:55.766341,2014-10-01 00:55:55.766341,,151
+142,Mark Kanemura,Robert Roldan,Whip It,7,Jazz,156,,2014-10-01 00:55:55.829324,2014-10-01 00:55:55.829324,,194
+143,Lauren Froderman,Robert Roldan,That Home,7,Contemporary,151,,2014-10-01 00:55:55.8393,2014-10-01 00:55:55.8393,,194
+144,Lauren Froderman,Kent Boyd,Hip to be Square,7,Jazz,151,,2014-10-01 00:55:55.849526,2014-10-01 00:55:55.849526,,146
+145,Allison Holker,Kent Boyd,Sundrenched World,7,Contemporary,10,,2014-10-01 00:55:55.859683,2014-10-01 00:55:55.859683,,146
+146,Kathryn McCormick,Robert Roldan,Cool,7,Broy,143,,2014-10-01 00:55:55.879021,2014-10-01 00:55:55.879021,,194
+147,Lauren Froderman,Pasha Kovalev,Not Myself Tonight,7,Cha-cha-cha,151,,2014-10-01 00:55:55.889118,2014-10-01 00:55:55.889118,,138
+148,Kent Boyd,Robert Roldan,The Chosen/Drum Addict,7,Malevos,146,,2014-10-01 00:55:55.903002,2014-10-01 00:55:55.903002,,194
+149,Rayven Armijo,Jamie Bayard,American Boy,4,Hip-Hop,191,,2014-10-01 00:56:35.851929,2014-10-01 00:56:35.851929,,69
+150,Susie Garcia,Marquis Cunningham,Dark Waltz,4,Waltz,198,,2014-10-01 00:56:35.874263,2014-10-01 00:56:35.874263,,158
+151,Kourtni Lind,Matt Dorame,Tainted Love,4,Jazz,148,,2014-10-01 00:56:35.884688,2014-10-01 00:56:35.884688,,160
+152,Chelsea Traille,Thayne Jasperson,Oye Como Va,4,Cha-cha-cha,38,,2014-10-01 00:56:35.898082,2014-10-01 00:56:35.898082,,200
+153,Chelsie Hightower,Mark Kanemura,Beautiful,4,Contemporary,39,,2014-10-01 00:56:35.909356,2014-10-01 00:56:35.909356,,156
+154,Kherington Payne,Twitch Boss,Too Damn Hot,4,Broadway,147,,2014-10-01 00:56:35.919575,2014-10-01 00:56:35.919575,,206
+155,Katee Shean,Joshua Allen,No Air,4,Lyrical hip-hop,142,,2014-10-01 00:56:35.945843,2014-10-01 00:56:35.945843,,135
+156,Jessica King,William Wingfield,Tango,4,Tango,128,,2014-10-01 00:56:35.95779,2014-10-01 00:56:35.95779,,211
+157,Courtney Galiano,Gev Manoukian,Boogie Wonderland,4,Disco,45,,2014-10-01 00:56:35.967685,2014-10-01 00:56:35.967685,,62
+158,Chelsea Traille,Thayne Jasperson,Untouched,4,Jazz,38,,2014-10-01 00:56:35.986508,2014-10-01 00:56:35.986508,,200
+159,Chelsie Hightower,Mark Kanemura,Mi Confesion,4,Argentine Tango,39,,2014-10-01 00:56:35.99818,2014-10-01 00:56:35.99818,,156
+160,Jessica King,William Wingfield,Whatever U Like,4,Hip-Hop,128,,2014-10-01 00:56:36.008004,2014-10-01 00:56:36.008004,,211
+161,Courtney Galiano,Gev Manoukian,Lost,4,Contemporary,45,,2014-10-01 00:56:36.032703,2014-10-01 00:56:36.032703,,62
+162,Katee Shean,Joshua Allen,All for the Best,4,Broadway,142,,2014-10-01 00:56:36.043012,2014-10-01 00:56:36.043012,,135
+163,Susie Garcia,Marquis Cunningham,Aguanile,4,Salsa,198,,2014-10-01 00:56:36.05418,2014-10-01 00:56:36.05418,,158
+164,Kherington Payne,Twitch Boss,A New Day Has Come,4,Viennese Waltz,147,,2014-10-01 00:56:36.071714,2014-10-01 00:56:36.071714,,206
+165,Courtney Galiano,Gev Manoukian,Wishing on a Star,4,Rumba,45,,2014-10-01 00:56:36.097537,2014-10-01 00:56:36.097537,,62
+166,Jessica King,William Wingfield,Heaven Must Have Sent you,4,Disco,128,,2014-10-01 00:56:36.121326,2014-10-01 00:56:36.121326,,211
+167,Kourtni Lind,Matt Dorame,Wrestlers,4,Contemporary,148,,2014-10-01 00:56:36.190392,2014-10-01 00:56:36.190392,,160
+168,Chelsea Traille,Thayne Jasperson,You Can't Hurry Love,4,Quickstep,38,,2014-10-01 00:56:36.201574,2014-10-01 00:56:36.201574,,200
+169,Chelsie Hightower,Mark Kanemura,Bleeding Love,4,Lyricalp-hop,39,,2014-10-01 00:56:36.21351,2014-10-01 00:56:36.21351,,156
+170,Katee Shean,Joshua Allen,"Baila, Baila",4,Samba,142,,2014-10-01 00:56:36.23201,2014-10-01 00:56:36.23201,,135
+171,Jessica King,William Wingfield,Choo Choo Ch'Boogie,4,Jive,128,,2014-10-01 00:56:36.244828,2014-10-01 00:56:36.244828,,211
+172,Jessica King,William Wingfield,Alone,4,Lyrical Jazz,128,,2014-10-01 00:56:36.256182,2014-10-01 00:56:36.256182,,211
+173,Comfort Fedoke,Thayne Jasperson,Cool,4,Broadway,44,,2014-10-01 00:56:36.27356,2014-10-01 00:56:36.27356,,200
+174,Comfort Fedoke,Thayne Jasperson,Hov Arek Sarer Jan,4,Smooth Waltz,44,,2014-10-01 00:56:36.28702,2014-10-01 00:56:36.28702,,200
+175,Kourtni Lind,Matt Dorame,How Do I Breathe,4,Hip-hop,148,,2014-10-01 00:56:36.298556,2014-10-01 00:56:36.298556,,160
+176,Chelsie Hightower,Mark Kanemura,Kiss Kiss,4,Jazz,39,,2014-10-01 00:56:36.324302,2014-10-01 00:56:36.324302,,156
+177,Chelsie Hightower,Mark Kanemura,It's my Life,4,Foxtrot,39,,2014-10-01 00:56:36.336635,2014-10-01 00:56:36.336635,,156
+178,Kherington Payne,Twitch Boss,Malaguena,4,Paso Doble,147,,2014-10-01 00:56:36.356117,2014-10-01 00:56:36.356117,,206
+179,Kherington Payne,Twitch Boss,Dreaming with a Broken Heart,4,Contemporary,147,,2014-10-01 00:56:36.369664,2014-10-01 00:56:36.369664,,206
+180,Katee Shean,Joshua Allen,Hometown Glory,4,Contemporary,142,,2014-10-01 00:56:36.380475,2014-10-01 00:56:36.380475,,135
+181,Courtney Galiano,Gev Manoukian,"Lights, Camera, Action!",4,Hip-hop,45,,2014-10-01 00:56:36.408997,2014-10-01 00:56:36.408997,,62
+182,Courtney Galiano,Gev Manoukian,"New York, New York",4,Broadway,45,,2014-10-01 00:56:36.421485,2014-10-01 00:56:36.421485,,62
+183,Chelsie Hightower,Mark Kanemura,Fuego,4,Salsa,39,,2014-10-01 00:56:36.432157,2014-10-01 00:56:36.432157,,156
+184,Mark Kanemura,Chelsie Hightower,I'm a Woman,4,Broadway,156,,2014-10-01 00:56:36.450691,2014-10-01 00:56:36.450691,,39
+185,Comfort Fedoke,Thayne Jasperson,Can We Chill,4,Hip-hop,44,,2014-10-01 00:56:36.461558,2014-10-01 00:56:36.461558,,200
+186,William Wingfield,Jessica King,Bandstand Boogie,4,Quickstep,211,,2014-10-01 00:56:36.487148,2014-10-01 00:56:36.487148,,128
+187,Courtney Galiano,Gev Manoukian,Don't stop the Music,4,Cha-cha-cha,45,,2014-10-01 00:56:36.500369,2014-10-01 00:56:36.500369,,62
+188,Courtney Galiano,Gev Manoukian,Standing There,4,Jazz,45,,2014-10-01 00:56:36.51106,2014-10-01 00:56:36.51106,,62
+189,Kherington Payne,Twitch Boss,2 Buck 4 TV,4,Krump,147,,2014-10-01 00:56:36.52952,2014-10-01 00:56:36.52952,,206
+190,Kherington Payne,Twitch Boss,Assassin's Tango,4,Tango,147,,2014-10-01 00:56:36.543373,2014-10-01 00:56:36.543373,,206
+191,Katee Shean,JosAllen,Iris,4,Vienesse Waltz,142,,2014-10-01 00:56:36.554706,2014-10-01 00:56:36.554706,,135
+192,Katee Shean,Joshua Allen,Dhoom Taana,4,Bollywood,142,,2014-10-01 00:56:36.572378,2014-10-01 00:56:36.572378,,135
+193,Courtney Gailiano,Joshua Allen,Skippin,4,Hip-hop,45,,2014-10-01 00:56:36.640232,2014-10-01 00:56:36.640232,,135
+194,Courtney Gailiano,Joshua Allen,Hero,4,Rumba,45,,2014-10-01 00:56:36.651183,2014-10-01 00:56:36.651183,,135
+195,Kherington Payne,Mark Kanemura,Kick Back,4,Country-western two step,147,,2014-10-01 00:56:36.6616,2014-10-01 00:56:36.6616,,156
+196,Mark Kanemura,Kherington Payne,Canned Heat,4,Jazz,156,,2014-10-01 00:56:36.680291,2014-10-01 00:56:36.680291,,147
+197,Twitch Boss,Comfort Fedoke,Forever,4,Hip-hop,206,,2014-10-01 00:56:36.700487,2014-10-01 00:56:36.700487,,44
+198,Katee Shean,William Wingfield,Sit Down You're Rocking the Boat,4,Broadway,142,,2014-10-01 00:56:36.711751,2014-10-01 00:56:36.711751,,211
+199,Katee Shean,William Wingfield,Imagine,4,Pas de deux,142,,2014-10-01 00:56:36.729583,2014-10-01 00:56:36.729583,,211
+200,Chelsie Hightower,Gev Manoukian,The House is Rockin,4,Jive,39,,2014-10-01 00:56:36.741669,2014-10-01 00:56:36.741669,,62
+201,Gev Manoukian,Chelsie Hightower,These Arms of Mine,4,Contemporary,62,,2014-10-01 00:56:36.752315,2014-10-01 00:56:36.752315,,39
+202,Katee Shean,Twitch Boss,Mercy,4,Contemporary,142,,2014-10-01 00:56:36.782335,2014-10-01 00:56:36.782335,,206
+203,Katee Shean,Twitch Boss,Sweet Georgia Brown,4,Broadway,142,,2014-10-01 00:56:36.794238,2014-10-01 00:56:36.794238,,206
+204,Comfort Fedoke,Mark Kanemura,Party People,4,Hip-hop,44,,2014-10-01 00:56:36.812824,2014-10-01 00:56:36.812824,,156
+205,Mark Kanemura,Comfort Fedoke,Lady Luck,4,Foxtrot,156,,2014-10-01 00:56:36.824894,2014-10-01 00:56:36.824894,,44
+206,Joshua Allen,Chelsie Hightower,A Los Amigos,4,Argentine Tango,39,,2014-10-01 00:56:36.83536,2014-10-01 00:56:36.83536,,135
+207,Chelsie Hightower,Joshua Allen,Evsting Love,4,Disco,39,,2014-10-01 00:56:36.852813,2014-10-01 00:56:36.852813,,135
+208,Courtney Galiano,Mark Kanemura,The Time of My Life,4,Viennese Waltz,45,,2014-10-01 00:56:36.864553,2014-10-01 00:56:36.864553,,156
+209,Courtney Galiano,Mark Kanemura,The Garden,4,Jazz,45,,2014-10-01 00:56:36.875896,2014-10-01 00:56:36.875896,,156
+210,Katee Shean,Joshua Allen,All By Myself,4,Contemporary,142,,2014-10-01 00:56:36.895421,2014-10-01 00:56:36.895421,,135
+211,Chelsie Hightower,Twitch Boss,Ahora Me Toca a Mi,4,Mambo,39,,2014-10-01 00:56:36.91312,2014-10-01 00:56:36.91312,,206
+212,Twitch Boss,Chelsie Hightower,Control,4,Hip-hop,206,,2014-10-01 00:56:36.924347,2014-10-01 00:56:36.924347,,39
+213,Katee Shean,Joshua Allen,Slow Dancing in a Burning Room,4,Lyrical Jazz,142,,2014-10-01 00:56:36.952757,2014-10-01 00:56:36.952757,,135
+214,Courtney Galiano,Katee Shean,The Trolley Song,4,Broadway,45,,2014-10-01 00:56:36.96406,2014-10-01 00:56:36.96406,,142
+215,Joshua Allen,Twitch Boss,Trepak,4,Trepak,135,,2014-10-01 00:56:36.976053,2014-10-01 00:56:36.976053,,206
+216,Katee Shean,Twitch Boss,Feeling Good,4,Foxtrot,142,,2014-10-01 00:56:36.99213,2014-10-01 00:56:36.99213,,206
+217,Courtney Galiano,Joshua Allen,The Dirty Boogie,4,Jive,45,,2014-10-01 00:56:39.681911,2014-10-01 00:56:39.681911,,135
