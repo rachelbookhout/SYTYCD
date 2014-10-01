@@ -1,8 +1,8 @@
 .yt_video {
-  max-width: 320px;
+  max-width: 200px;
   margin-left: auto;
   margin-right: auto;
-
+}
   img {
     cursor: pointer;
     width: 100%;
@@ -10,4 +10,11 @@
   }
 .col-md-4{
   display:inline-block;
+}
+
+.caption{
+  display: block;
+  font-family: Arial;
+  font-size: 20px;
+  text-align: center;
 }

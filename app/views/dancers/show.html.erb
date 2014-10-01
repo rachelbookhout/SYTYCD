@@ -7,8 +7,8 @@
   <div class="yt_video thumbnail">
  <%= image_tag "https://img.youtube.com/vi/#{video.video_id}/mqdefault.jpg", alt: video.song, class: 'yt_preview img-rounded', :"data-uid" => video.video_id %>
   <div class="caption">
-                  <h5><%= video.dancer_name %> with <%= video.partner%></h5>
                   <p><%=video.song %></p>
+                  <h5><%= video.dancer_name %> with <%= video.partner%></h5>
                 </div>
                 </div>
               </div>
@@ -20,8 +20,8 @@
   <div class="yt_video thumbnail">
  <%= image_tag "https://img.youtube.com/vi/#{video.video_id}/mqdefault.jpg", alt: video.song, class: 'yt_preview img-rounded', :"data-uid" => video.video_id %>
   <div class="caption">
-                  <h5><%= video.dancer_name %> with <%= video.partner%></h5>
-                  <p><%=video.song %></p>
+                <p><%=video.song %></p>
+                <h5><%= video.dancer_name %> with <%= video.partner%></h5>
                 </div>
                 </div>
               </div>
