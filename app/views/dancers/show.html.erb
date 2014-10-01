@@ -3,18 +3,29 @@
 <br>
 <br>
 <% @dance_videos.each do |video|%>
-<%binding.pry%>
 <div class="col-md-4">
   <div class="yt_video thumbnail">
- <%= image_tag "https://img.youtube.com/vi/#{video[0]["video_id"]}/mqdefault.jpg", alt: video[0]["song"], class: 'yt_preview img-rounded', :"data-uid" => video[0]["video_id"] %>
+ <%= image_tag "https://img.youtube.com/vi/#{video.video_id}/mqdefault.jpg", alt: video.song, class: 'yt_preview img-rounded', :"data-uid" => video.video_id %>
   <div class="caption">
-                  <h5><%= video[0]["dancer_name"] %> with <%= video[0]["partner"]%></h5>
-                  <p><%=video[0]["song"] %></p>
+                  <h5><%= video.dancer_name %> with <%= video.partner%></h5>
+                  <p><%=video.song %></p>
                 </div>
                 </div>
               </div>
             </div>
 
     <% end %>
+<% @dance_videos2.each do |video|%>
+<div class="col-md-4">
+  <div class="yt_video thumbnail">
+ <%= image_tag "https://img.youtube.com/vi/#{video.video_id}/mqdefault.jpg", alt: video.song, class: 'yt_preview img-rounded', :"data-uid" => video.video_id %>
+  <div class="caption">
+                  <h5><%= video.dancer_name %> with <%= video.partner%></h5>
+                  <p><%=video.song %></p>
+                </div>
+                </div>
+              </div>
+            </div>
 
+    <% end %>
 

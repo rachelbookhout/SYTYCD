@@ -13,14 +13,19 @@ class DancersController < ApplicationController
   end
 
   def show
-  id = params[:id].to_i
-  @dances = []
-  @dances << Performance.where(dancer_id: id)
-  @dances << Performance.where(partner_id: id)
-  @dance_videos = @dances.each do |dance|
-  get_videos(dance[0]["dancer_name"],dance[0]["partner"],dance[0]["song"])
-  dance[0]["url"] = @url
-  dance[0]["video_id"] = @url.match(/watch\?v=(.*?)(?:&feature|\Z)/)[1]
-  end
+    id = params[:id].to_i
+    @dances = []
+    @dances = Performance.where(dancer_id: id)
+    @dances2 = Performance.where(partner_id: id)
+    @dance_videos = @dances.each do |dance|
+      get_videos(dance.dancer_name,dance.partner,dance.song)
+      dance.url = @url
+      dance.video_id = @url.match(/watch\?v=(.*?)(?:&feature|\Z)/)[1]
+    end
+    @dance_videos2 = @dances2.each do |dance|
+      get_videos(dance.dancer_name,dance.partner,dance.song)
+      dance.url = @url
+      dance.video_id = @url.match(/watch\?v=(.*?)(?:&feature|\Z)/)[1]
+    end
   end
 end
