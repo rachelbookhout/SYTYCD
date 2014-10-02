@@ -43,6 +43,6 @@ gem 'unicorn'
 gem 'kaminari'
 gem 'rails_12factor', group: :production
 # ruby "2.1.2"
-ruby "2.1.2"
+ruby "2.0.0"
 
 
