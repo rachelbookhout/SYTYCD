@@ -40,3 +40,5 @@ gem 'bootstrap-sass', '~> 3.1.1.0'
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 gem 'kaminari'
+gem 'rails_12factor', group: :production
+ruby "2.1.2"
