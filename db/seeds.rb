@@ -237,7 +237,7 @@ Performance.create!([
   {dancer_name: "Kathryn McCormick", partner: "Robert Roldan", song: "Cool", season: 7, style: "Broy", dancer_id: 143, url: nil, video_id: nil, partner_id: 128},
   {dancer_name: "Lauren Froderman", partner: "Pasha Kovalev", song: "Not Myself Tonight", season: 7, style: "Cha-cha-cha", dancer_id: 97, url: nil, video_id: nil, partner_id: 121},
   {dancer_name: "Kent Boyd", partner: "Robert Roldan", song: "The Chosen/Drum Addict", season: 7, style: "Malevos", dancer_id: 93, url: nil, video_id: nil, partner_id: 128},
-  {dancer_name: "Rayven Armijo", partner: "Jamie Bayard", song: "American Boy", season: 4, style: "Hip-Hop", dancer_id: 126, url: nil, video_id: nil, partner_id: },
+  {dancer_name: "Rayven Armijo", partner: "Jamie Bayard", song: "American Boy", season: 4, style: "Hip-Hop", dancer_id: 126, url: nil, video_id: nil, partner_id:nil},
   {dancer_name: "Susie Garcia", partner: "Marquis Cunningham", song: "Dark Waltz", season: 4, style: "Waltz", dancer_id: 198, url: nil, video_id: nil, partner_id: 50},
   {dancer_name: "Kourtni Lind", partner: "Matt Dorame", song: "Tainted Love", season: 4, style: "Jazz", dancer_id: 95, url: nil, video_id: nil, partner_id: 104},
   {dancer_name: "Chelsea Traille", partner: "Thayne Jasperson", song: "Oye Como Va", season: 4, style: "Cha-cha-cha", dancer_id: 38, url: nil, video_id: nil, partner_id: 93},
