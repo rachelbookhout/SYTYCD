@@ -1,28 +1,13 @@
-== README
+This creates a website that lists all the dancers who have appeared on SYTYCD US and takes you to a page that displays all dances that they have particpated in.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Without the use of the following tutorial provided by Ilya Bodrov, this would have not been possible.
+http://www.sitepoint.com/youtube-rails/
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+This is the working app:
+http://blooming-brushlands-6569.herokuapp.com/dancers
+
+Things that will be implemented soon:
+- Only Season 4 and 7 have had their dances entered. I hope to add more seasons soon.
+- More vibrant layout
+- Better sorting of videos
