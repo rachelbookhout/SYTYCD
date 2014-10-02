@@ -1,5 +1,5 @@
 class Changename < ActiveRecord::Migration
   def change
-  rename_column :performances, :dancer, :dancer_name
+  rename_column :performances, :name, :dancer_name
   end
 end
