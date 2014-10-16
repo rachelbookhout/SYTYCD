@@ -21,7 +21,7 @@ jQuery ->
 
       window.ytplayer = new YT.Player('ytPlayer', {
         width: '100%'
-        height: player_wrapper.width() / 1.777777777
+        height: player_wrapper.width() / 2
         videoId: @video
         playerVars: {
           wmode: 'opaque'
